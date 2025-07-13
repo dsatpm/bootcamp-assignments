@@ -18,7 +18,7 @@
 	url = git@github.com:dsatpm/bootcamp-text-editor-assignment.git
 [submodule "ecommerce-backend"]
 	path = ecommerce-backend
-	url = git@github.com:dsatpm/backend-ecommerce.git
+	url = git@github.com:dsatpm/bootcamp-backend-ecommerce-assignment.git
 [submodule "employee-tracker-backend"]
 	path = employee-tracker-backend
 	url = git@github.com:dsatpm/backend-employee-tracker.git
