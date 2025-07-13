@@ -3,4 +3,4 @@ This repository contains all of the projects I did during my full stack bootcamp
 
 Any questions/comments feel free to reach out to me via social media on [Instagram](https://instagram.com/__dsatpm) or [Twitter](https://x.com/_jeremiahhaynes_)
 
-Thanks for checkint it out!
+Thanks for checking it out!
