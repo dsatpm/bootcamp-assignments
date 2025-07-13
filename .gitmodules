@@ -27,7 +27,7 @@
 	url = git@github.com:dsatpm/bootcamp-hangman-assignment.git
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
-	url = git@github.com:dsatpm/rock-paper-scissors.git
+	url = git@github.com:dsatpm/bootcamp-rock-paper-scissors-assignment.git
 [submodule "social-media-backend"]
 	path = social-media-backend
 	url = git@github.com:dsatpm/bootcamp-social-media-backend-assignment.git
