@@ -4,3 +4,57 @@
 [submodule "catnip-chronicles"]
 	path = catnip-chronicles
 	url = git@github.com:dsatpm/catnip-chronicles-final-project.git
+[submodule "book-api"]
+	path = book-api
+	url = git@github.com:dsatpm/bootcamp-book-api-assignment.git
+[submodule "redux-store"]
+	path = redux-store
+	url = git@github.com:dsatpm/bootcamp-redux-store-assignment.git
+[submodule "portfolio"]
+	path = portfolio
+	url = git@github.com:dsatpm/bootcamp-portfolio-assignment.git
+[submodule "text-editor"]
+	path = text-editor
+	url = git@github.com:dsatpm/bootcamp-text-editor-assignment.git
+[submodule "ecommerce-backend"]
+	path = ecommerce-backend
+	url = git@github.com:dsatpm/backend-ecommerce.git
+[submodule "employee-tracker-backend"]
+	path = employee-tracker-backend
+	url = git@github.com:dsatpm/backend-employee-tracker.git
+[submodule "scriptman"]
+	path = scriptman
+	url = git@github.com:dsatpm/scriptman.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:dsatpm/rock-paper-scissors.git
+[submodule "social-media-backend"]
+	path = social-media-backend
+	url = git@github.com:dsatpm/bootcamp-social-media-backend-assignment.git
+[submodule "car-provider"]
+	path = car-provider
+	url = git@github.com:dsatpm/bootcamp-car-provider-assignment.git
+[submodule "regex-gist"]
+	path = regex-gist
+	url = git@github.com:dsatpm/bootcamp-regex-gist-assignment.git
+[submodule "skinscore"]
+	path = skinscore
+	url = git@github.com:dsatpm/bootcamp-social-media-project.git
+[submodule "express-note-taker"]
+	path = express-note-taker
+	url = git@github.com:dsatpm/bootcamp-express-backend-assignment.git
+[submodule "svg-logo-generator"]
+	path = svg-logo-generator
+	url = git@github.com:dsatpm/bootcamp-svg-logo-generator-assignment.git
+[submodule "readme-generator"]
+	path = readme-generator
+	url = git@github.com:dsatpm/bootcamp-readme-generator-assignment.git
+[submodule "open-weather-app"]
+	path = open-weather-app
+	url = git@github.com:dsatpm/bootcamp-open-weather-api-assignment.git
+[submodule "quiz-game"]
+	path = quiz-game
+	url = git@github.com:dsatpm/bootcamp-quiz-game-assignment.git
+[submodule "password-generator"]
+	path = password-generator
+	url = git@github.com:dsatpm/bootcamp-password-generator-assignment.git
